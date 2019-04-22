@@ -1,6 +1,0 @@
-﻿  stdafx.cpp
-  HelperStart.cpp
-  inject.cpp
-f:\vsproject\dnfhelper\helperstart\helperstart\inject.cpp(390): warning C4101: “handle”: 未引用的局部变量
-  正在生成代码...
-  HelperStart.vcxproj -> F:\vsproject\DNFHelper\x64\Debug\HelperStart.exe
