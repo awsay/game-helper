@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\旧版本基址备份">
+      <UniqueIdentifier>{a7f0650d-c848-415b-942f-de2ce4d2e179}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="基址.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="常用功能.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="组包.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="内存读写.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="劫持.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="加密解密.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="公告.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="常用函数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="全屏.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="召唤人偶怪物.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="符咒.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="检测.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="2017.1.25基址.h">
+      <Filter>头文件\旧版本基址备份</Filter>
+    </ClInclude>
+    <ClInclude Include="超级技能.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CALL.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="自动.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="微调buff.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="判断.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="激活.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LDR断链 清除PE.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="剧情.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="测试.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="检测.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用功能.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="激活.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="自动.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="公告.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="全屏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LDR断链 清除PE.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="内存读写.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CALL.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="组包.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="微调buff.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="超级技能.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="召唤人偶怪物.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="符咒.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="加密解密.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剧情.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
