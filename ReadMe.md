@@ -105,10 +105,10 @@ struct people {
     // ...
 };
  
-people *people_ptr; // 人物指针
+people *instance; // 人物指针
 
 int main() {
-	people_ptr = (people*)malloc(sizeof(people));
+	instance = (people*)malloc(sizeof(people));
 	// ... 后面对任务进行初始化等 
 } 
 ```
